@@ -3,6 +3,8 @@ React Js and Node Js Exercise, the purpose of the application is search in base 
 
 For test the project manually you can use the following test data:
  - ip: 31.204.2.1
+ - ip: 60.54.95.1
+ - ip: 71.9.92.129
 
 The steps for test the project are the following:
 1. Clone repository
