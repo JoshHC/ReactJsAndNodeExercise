@@ -1,0 +1,15 @@
+version: '3.7'
+
+services:
+
+    express:
+        container_name: exercisebackend
+        image: backend
+        ports: 
+            - 5000:5000
+        environment: 
+            - CHOKIDAR_USEPOLLING=true
+
+    
+            
+            
